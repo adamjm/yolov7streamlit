@@ -4,7 +4,6 @@ easydict
 gdown
 lap
 matplotlib
-onnxruntime-gpu
 opencv-python
 Pillow
 PyYAML
